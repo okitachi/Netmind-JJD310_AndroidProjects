@@ -7,8 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class SecondActivity extends Activity implements View.OnClickListener
-{
+public class SecondActivity extends Activity implements View.OnClickListener{
     private EditText infoReturn_Edt;
 
     @Override
